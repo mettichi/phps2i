@@ -7,7 +7,7 @@
 
 <body>
 <?php
-echo "Hello WAAAT Dream TEAM!!!!!";
+echo "Hello WAAAT Dream TEAM! New S2i Build";
 ?>
 </body>
 
